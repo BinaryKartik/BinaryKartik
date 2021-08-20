@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @kartik-programmer
 - 👀 I’m interested in Web Developement and Python
-- 🌱 I’m currently learning C++
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width=100>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width=100>
+- 🌱 I’m currently learning JS
+<table>
+  <tr\>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=100></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" align="right" width=100></td>
+  </tr>
+  </table>
 
 <!---
 kartik-programmer/kartik-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
