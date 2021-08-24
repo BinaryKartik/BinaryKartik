@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @kartik-programmer
 - 👀 I’m interested in Web Developement and Python
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS and Flask
 <table>
   <tr\>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=100></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" align="right" width=100></td>
+    <td><img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" width=100></td>
   </tr>
   </table>
 
