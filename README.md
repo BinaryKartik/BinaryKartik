@@ -13,6 +13,14 @@
 😎 Checkout my Notes Webapp!<br>
 🐱‍👤 Many new projects coming soon!<br>
 <img src="https://media4.giphy.com/media/cebnL50gs0QJi53Yuj/giphy.gif?cid=6c09b9523emsa7xcvqmaff30kzbf4qtosj03d832lpwf3dug&rid=giphy.gif&ct=s" width="100px">
+<hr size="5">
+<div>
+  <h1>
+    <img src="https://image.flaticon.com/icons/png/512/432/432548.png" width="30px">
+    My Github Stats
+  </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=kartik-programmer">
+</div>
 <!---
 kartik-programmer/kartik-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
