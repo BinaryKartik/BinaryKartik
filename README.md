@@ -24,7 +24,7 @@
 <div>
   <hr size="5">
   <h1>🔥Some of my best projects-</h1>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-programmer&repo=NotesWebapp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-programmer&repo=NotesWebapp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-programmer&repo=Attendance-Marker-ID-Card-Generator">
   </div>
 <!---
