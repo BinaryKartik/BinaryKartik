@@ -11,7 +11,7 @@
 
 ⭐ Don't forget to star!<br>
 😎 Checkout my Notes Webapp!<br>
-🐱‍ Many new projects coming soon!<br>
+🐱‍ An amazing project coming soon!<br>
 
 <img src="https://media4.giphy.com/media/cebnL50gs0QJi53Yuj/giphy.gif?cid=6c09b9523emsa7xcvqmaff30kzbf4qtosj03d832lpwf3dug&rid=giphy.gif&ct=s" width="100px">
 <hr size="5">
