@@ -10,7 +10,7 @@
 </p>
 
 ⭐ Don't forget to star!<br>
-😎 Checkout my Notes Webapp!<br>
+😎 Checkout my Resumister Webapp!<br>
 🐱‍ An amazing project coming soon!<br>
 
 <img src="https://media4.giphy.com/media/cebnL50gs0QJi53Yuj/giphy.gif?cid=6c09b9523emsa7xcvqmaff30kzbf4qtosj03d832lpwf3dug&rid=giphy.gif&ct=s" width="100px">
@@ -25,8 +25,8 @@
 <div>
   <hr size="5">
   <h1>🔥Some of my best projects-</h1>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-programmer&repo=NotesWebapp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-programmer&repo=Attendance-Marker-ID-Card-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-programmer&repo=Resumister">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-programmer&repo=HonouringOurSoldiers">
   </div>
 <!---
 kartik-programmer/kartik-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
