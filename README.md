@@ -1,4 +1,5 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"><h1> Hi, I’m ***kartik-programmer***</h1><br>
+![Profile views](https://gpvc.arturio.dev/kartik-programmer) 
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=150>
 💻 I am a **full stack developer**.<br>
 👀 I’m interested in **Web Developement** and **Competetive Programming**.<p><br>
