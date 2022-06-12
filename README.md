@@ -18,7 +18,7 @@
 <hr size="5">
 <div>
   <h1>
-    <img src="https://image.flaticon.com/icons/png/512/432/432548.png" width="30px">
+    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px">
     My Github Stats
   </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=BinaryKartik">
