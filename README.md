@@ -3,11 +3,10 @@
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=150>
 💻 I am a **full stack developer**.<br>
 👀 I’m interested in **Web Developement** and **Competetive Programming**.<p><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.pngall.com/wp-content/uploads/2016/07/Web-Development-Download-PNG.png" width=70></p>
+<img src="https://i.postimg.cc/mD7hDqWS/Pngtree-digital-marketing-concept-with-people-7516358.png)](https://postimg.cc/HcsTv6xJ" width=100></p>
 🌱 I’m currently learning **TensorFlow** and **React**. <br>
 <p><img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" width=50>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width=50>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=50>
 </p>
 
 ⭐ Don't forget to star!<br>
@@ -25,9 +24,9 @@
 </div>
 <div>
   <hr size="5">
-  <h1>🔥Some of my best projects-</h1>
+  <h1>🔥Recent projects-</h1>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BinaryKartik&repo=Resumister">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BinaryKartik&repo=HonouringOurSoldiers">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavGupta30&repo=Vortex">
   </div>
 <!---
 kartik-programmer/BinaryKartik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
